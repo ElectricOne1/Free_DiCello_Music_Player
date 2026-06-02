@@ -1,2 +1,6 @@
-# Free_DiCello_Music_Player
 Free DiCello Music Player, for Android
+100% free , not a trial version , not a subscription, just free ! I made a music app how I wanted a music app ... and I loaded 3 free tracks of my own piano music for anyone to just have...
+
+Stylish, customizable music player, that lets user creates playlists, share songs, change colors, and set ringtones.  Music players should be simple / let you change the colors theme , and save / change your playlists , share songs , etc ... 
+
+For donations, If someone likes the app, and feels like tipping  -  I have a stripe link in the about section or even BETTER !  the online area of the app leads to my radio station of classical piano works (https://dicellopiano.com)  website for all my piano music as an ad-free radio station for only $1.99 a month... But it's totally optional...this app is free, has no trackers, no ads, and doesn't report anything to anyone, the only thing it asks for is of course , "folders" , (to play music )   and  "notifications" (it has something to do with keeping music playing while other apps are open , not because it has popups or is going to send you messages )
